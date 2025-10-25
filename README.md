@@ -2,11 +2,11 @@
 Phaser Game
 
 # Features
-<bl>Updating Leaderboard</bl>
-<bl>Local saves</bl>
-<bl>Abilities</bl>
-<bl>Character Animations</bl>
-<bl>Incremental Difficulty</bl>
+<ol>Updating Leaderboard</ol>
+<ol>Local saves</ol>
+<ol>Abilities</ol>
+<ol>Character Animations</ol>
+<ol>Incremental Difficulty</ol>
 
 # Game
 <p>Live Pages Link: </p>
