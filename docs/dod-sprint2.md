@@ -1,3 +1,3 @@
 <h3>Sprint 2 GIF</h3>
 <hr>
-<img src="../assets/sprint2.gif"> 
+<img src="../assets/sprint2.gif" width="100%" height="100%"> 
