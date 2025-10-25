@@ -4,5 +4,6 @@
 
 <br>
 <h3>Sprint 2 Modules</h3>
-<img src="../assets/sprint2.JPG" width="100%" height="100%"> 
+<hr>
+<img src="../assets/sprint2.JPG" width="40%" height="40%"> 
 
