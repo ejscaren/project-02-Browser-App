@@ -1,4 +1,4 @@
-# Go Berserk
+## Go Berserk
 Phaser Game
 
 # Features
