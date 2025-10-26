@@ -3,7 +3,7 @@ Phaser Game
 Uses arrow keys to move and space to shoot.
 Press 1 for a cool ability.
 
-<img src="../assets/sprint3.gif" width="100%" height="100%"> 
+<img src="assets/sprint3.gif" width="100%" height="100%"> 
 
 # Features
 <ol>Updating Leaderboard</ol>
